@@ -52,6 +52,8 @@ A *fork* is a copy of a repository. Forking a repository lets you to make change
 
 Click **Fork** (in the top-right corner of the page) to copy this repository to your GitHub account.
 
+Forked this github page...
+
 ### Clone your fork
 
 A *clone* is a downloaded version of a repository. Cloning our fork lets you download a copy of the repository to your computer.
